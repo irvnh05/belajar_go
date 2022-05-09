@@ -36,4 +36,8 @@ func main(){
 
 	fmt.Println(firstName)
 	fmt.Println(lastName)
+
+	// func TestAja() string {
+	// 	return fmt.Sprintf("halo nama saya %s dan umur saya %d, "irvan", 23)
+	// }
 }
